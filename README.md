@@ -17,6 +17,7 @@ import foobar
 
 foobar.pluralize('word') # returns 'words'
 foobar.pluralize('goose') # returns 'geese'
+foobar.pluralize('github') # returns 'github'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 
